@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2019, The Monero Project
+ // Copyright (c) 2014-2019, The Monero Project
 // 
 // All rights reserved.
 // 
@@ -12,7 +12,7 @@
 //    of conditions and the following disclaimer in the documentation and/or other
 //    materials provided with the distribution.
 // 
-// 3. Neither the name of the copyright holder nor the names of its contributors may be
+// 3. Neither the name of the copyright holder nor the names oр. f its contributors may be
 //    used to endorse or promote products derived from this software without specific
 //    prior written permission.
 // 
@@ -52,7 +52,7 @@
 #define BLOCKCHAIN_TIMESTAMP_CHECK_WINDOW               12
 
 // MONEY_SUPPLY - total number coins to be generated
-#define MONEY_SUPPLY                                    ((uint64_t)(-1))
+#define MONEY_SUPPLY                                    ((uint64_t)(1840000000000000000000))
 #define EMISSION_SPEED_FACTOR_PER_MINUTE                (20)
 #define FINAL_SUBSIDY_PER_MINUTE                        ((uint64_t)300000000000) // 3 * pow(10, 11)
 
@@ -140,7 +140,7 @@
 
 #define RPC_IP_FAILS_BEFORE_BLOCK                       3
 
-#define CRYPTONOTE_NAME                         "swap"
+#define CRYPTONOTE_NAME                         "nord"
 #define CRYPTONOTE_POOLDATA_FILENAME            "poolstate.bin"
 #define CRYPTONOTE_BLOCKCHAINDATA_FILENAME      "data.mdb"
 #define CRYPTONOTE_BLOCKCHAINDATA_LOCK_FILENAME "lock.mdb"
