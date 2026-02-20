@@ -26,8 +26,8 @@
 # STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
 # THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-cmake_minimum_required(VERSION 2.8.7)
-
+cmake_minimum_required(VERSION 3.5)
+cmake_policy(SET CMP0000 OLD)
 project(translations)
 
 # when crosscompiling import the executable targets from a file
