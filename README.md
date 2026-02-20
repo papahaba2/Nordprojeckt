@@ -3,7 +3,7 @@
 Copyright (c) 2014-2024 The Monero Project.   
 Swap (previously known as Freehaven) is based on [Monero](README_original.md)
 
-![Build-Linux](https://github.com/swap-dev/swap/workflows/Build-Linux/badge.svg)
+![Build-Linux]()
 
 ## Production & Development
 
@@ -12,28 +12,28 @@ Active Branches:
 - Unstable: swap-v3.3dev(latest)
 - Testing: N/A
 
-To contribute to the Swap Project, please make all pull requests to the _swap-v3.2dev_ branch.<br/>
+To contribute to the Nord Project, please make all pull requests to the _swap-v3.2dev_ branch.<br/>
 For production, please use the _latest or tagged release_ of the _master_ branch.
 
 ## Resources
-- Webpage: [swap.foundation](https://getswap.eu)
-- Explorer: [explorer.swap.foundation](https://explorer.getswap.eu)
-- Pool List: [miningpoolstats.stream/swap](https://miningpoolstats.stream/swap)
-- GitHub: [github.com/swap-dev/swap](https://github.com/swap-dev/swap)
+- Webpage: []()
+- Explorer: []()
+- Pool List: []()
+- GitHub: []()
 
 ## Social/Contact
 
-- Bitcointalk [bitcointalk.org/index.php?topic=5083455](https://bitcointalk.org/index.php?topic=5083455)
-- Discord: [discord.gg/SmcFCPu](https://discord.gg/SmcFCPu)
-- Reddit: [r/SwapProject/](https://www.reddit.com/r/SwapProject/)
-- Twitter: [@Swap_Community](https://twitter.com/Swap_Community)
-- Email: xwpdev@gmail.com
+- Bitcointalk []()
+- Discord: []()
+- Reddit: [] ()
+- Twitter: []()
+- Email: 
 
 ## Specifications & Emission
 
 - Coin ticker: XWP
-- Total supply: 18,400,000 coins before tail emission
-- Tail emission: ~158,000 coins each year (starting at year 8)
+- Total supply: 184,000,000 coins before tail emission
+- Tail emission: ~1,580,000 coins each year (starting at year 8)
 - Decimal places: 12
 - PoW hash algorithm: Cuckaroo29s
 - Block time: 15 seconds
