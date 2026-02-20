@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2019, The Monero Project
+ // Copyright (c) 2014-2019, The Monero Project
 // 
 // All rights reserved.
 // 
@@ -12,7 +12,7 @@
 //    of conditions and the following disclaimer in the documentation and/or other
 //    materials provided with the distribution.
 // 
-// 3. Neither the name of the copyright holder nor the names of its contributors may be
+// 3. Neither the name of the copyright holder nor the names oр. f its contributors may be
 //    used to endorse or promote products derived from this software without specific
 //    prior written permission.
 // 
